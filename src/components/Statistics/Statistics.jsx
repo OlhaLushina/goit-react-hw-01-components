@@ -34,9 +34,11 @@ Statistics.propTypes = {
 };
 
 // Функція генерування випадкового кольору (hex)
+/*
 function getRandomHexColor() {
   return `#${Math.floor(Math.random() * 16777215).toString(16)}`;
 }
+*/
 
 // Функція генерування випадкового кольору (Hsl)
 function getRandomHslColor() {
